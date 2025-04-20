@@ -2,6 +2,8 @@
 
 🚦 A data engineering and forecasting pipeline to predict hourly NYC traffic demand using AWS services, Streamlit, and Power BI.
 
+![image](https://github.com/user-attachments/assets/296c2bc8-1813-436c-b4dd-b5d2dd740889)
+
 ## 🔧 Tech Stack
 - **AWS Glue & EC2**: ETL and compute pipeline
 - **S3**: Storage for cleaned Parquet data
