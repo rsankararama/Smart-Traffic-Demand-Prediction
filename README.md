@@ -1,1 +1,20 @@
-# Smart-Traffic-Demand-Prediction
+# Smart Traffic Demand Prediction
+
+🚦 A data engineering and forecasting pipeline to predict hourly NYC traffic demand using AWS services, Streamlit, and Power BI.
+
+## 🔧 Tech Stack
+- **AWS Glue & EC2**: ETL and compute pipeline
+- **S3**: Storage for cleaned Parquet data
+- **Prophet**: Time-series forecasting
+- **Streamlit**: Real-time web app with KPIs & visuals
+- **Power BI**: Interactive traffic insights dashboard
+
+## 📈 Features
+- Forecasts hourly traffic using Prophet
+- Built real-time filtering & Plotly visualizations in Streamlit
+- Power BI dashboard with slicers and time-series charts
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/e159cf5f-0ebe-4555-81e7-3c4fac972108)
+
