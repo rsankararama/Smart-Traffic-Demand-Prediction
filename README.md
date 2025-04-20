@@ -17,6 +17,10 @@
 - Power BI dashboard with slicers and time-series charts
 
 ## Screenshots
-
+Power BI:
 ![image](https://github.com/user-attachments/assets/e159cf5f-0ebe-4555-81e7-3c4fac972108)
+
+Streamlit:
+![image](https://github.com/user-attachments/assets/90465b67-0649-4105-aee6-8be232fa28bc)
+
 
